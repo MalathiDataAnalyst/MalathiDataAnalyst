@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malathi
 - 👀 I’m interested in Data Research and Analytical skills
-- 🌱 I’m currently learning Data Science and Machine Learning
-      Follow on  
+- 🌱 I’m currently learning Data Science and Machine Learning Course
+-  Follow on  
 
 
 <!---
